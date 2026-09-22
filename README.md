@@ -1,2 +1,2 @@
 # OPS2026
-Tere tulemast! Siia laen üles enda operatsioonisüsteemi praktikumid
+Tere tulemast! Mina olen Liisbeth Rosenstein. Siia laen üles enda operatsioonisüsteemi praktikumid
