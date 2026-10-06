@@ -1,4 +1,4 @@
-Praktikum 3
+# Praktikum 3
 Kolmandas praktikumis paigaldasin VirtualBoxi Ubuntu 26.04 versiooni. Seadistasin Linuxi keskkonna ja vahetasin graafilise kasutajaliidese Lubuntu vastu.Praktikumi lõpus lisasin virtuaalmasinasse uue 3 GB kõvaketta , lisasin selle LVM-i füüsiliseks volüümiks ja veendusin, et kogu ketta ruum oleks kasutuses. Allpool on pildid minu töö tõestuseks.
 
 <img width="1840" height="1079" alt="Screenshot 2026-10-06 010124" src="https://github.com/user-attachments/assets/2babba0a-c9d7-473a-b514-17143217c5ce" />
