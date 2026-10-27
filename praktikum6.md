@@ -1,4 +1,5 @@
 # Praks 6
+Praktikumis õppisin, kuidas Linuxis määrata, kes tohib faile lugeda, muuta ja käivitada. Lõin kasutajaid ja gruppe ning katsetasin erinevaid õigusi käskudega nagu `chmod` ja `chown`. Proovisin ka mõnda erilist õigust, näiteks `setuid`, sticky bit ja ACL, mis annavad failidele täpsema kaitse.
 
 # 6.1
 a) Kataloogil peab olema käivitamise õigus (x) ja failil lugemisõigus (r)
