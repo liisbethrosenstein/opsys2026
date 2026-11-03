@@ -1,5 +1,5 @@
 # PRAKTIKUM 7
-
+Praktikumis sain esimest korda tegeleda haakimiseg ja uurida, mis see täpsemalt on. 
 7.1 
 Uued andmekandjad tuleb lähtestada, sest kettal puudub partitsioonitabel, mida arvuti ära tunneks. Ilma tabelita operatsioonisüsteem ei tuvasta ketta struktuuri ega leia partitsioone. Kui  partitsioonid on loodud, saab igale partitsioonile luua failisüsteemi ja hakata andmeid salvestama,
 
