@@ -2,6 +2,7 @@
 
 7.1 
 Andmekandjale on vaja seadistada partitsioonitabel, mis võimaldab ketta jagada partitsioonideks, millele saab seejärel luua failisüsteemi andmete salvestamiseks.
+
 7.2 
 
 1. Kettamaht: MBR toetab ainult kuni 2 TB, aga GPT lubab kuni 9,4 ZB. See on parem, sest saab kasutada tänapäevaseid suuri kettaid ühe tervikliku partitsioonina.
