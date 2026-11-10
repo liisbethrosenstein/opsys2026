@@ -1,7 +1,10 @@
 # Praktikum 8
 Selles praktikumis tegelesin RAID 1 peegeldamisega nii Windows 11-s kui ka Ubuntus. Lisasin virtuaalmasinatele kaks ketast, tegin massiivi valmis, simuleerisin ühe ketta riket ja taastasin massiivi uue kettaga, nii et andmed jäid alles. 
 Lisaks seadistasin  TÜ Nextcloudi ja Microsoft OneDrive'i.
+
+
 8.1 
+
 Nurjunud
 <img width="1236" height="956" alt="Screenshot 2026-11-08 213230" src="https://github.com/user-attachments/assets/47fac2b2-3906-4c80-bf2e-e6007f5af22f" />
 
