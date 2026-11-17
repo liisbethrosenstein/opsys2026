@@ -18,6 +18,12 @@ See tarkvara on ebavajalik just siis kui sul pole mängudeks vajadust. See vabas
 # 9.5 
 Fail käivitatakse selles kaustas, mis tuleb "%Path% märgitud kaustades enne, ja süsteemi kaustad tulevad enne teisi.
 
+# 9.6 
+Valisin uurimiseks RemoteRegistry. See teenus lubaba kaugarvutitel minu arvuti registrites  muudatusi teha. Seda tarkvara pole minu arvutis vaja, sest ma ei halda oma arvutit võrgu kaudu. Selle võib panna disabled olekusse. Windows soovitab ka seda, et turvarisk oleks väiksem. 
+
+# 9.7
+<img width="1153" height="971" alt="image" src="https://github.com/user-attachments/assets/ebc4ed32-6f15-4024-a625-7e2c121882dd" />
+
 
 # 9.8
 <img width="842" height="682" alt="image" src="https://github.com/user-attachments/assets/a1c9fdf1-5efa-4505-b770-05fe892fb721" />
