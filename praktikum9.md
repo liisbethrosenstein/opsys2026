@@ -9,4 +9,16 @@
 See tarkvara on ebavajalik just siis kui sul pole mängudeks vajadust. See vabastab 19.8MB. 
 
 <img width="1342" height="835" alt="Screenshot 2026-11-17 131334" src="https://github.com/user-attachments/assets/a8909d30-d79e-4b6d-8312-d1cce192d3ac" />
+# 9.4
+
+
+<img width="1855" height="981" alt="Screenshot 2026-11-17 134702" src="https://github.com/user-attachments/assets/829c24a6-f76c-4528-8e00-e14573a6dc02" />
+
+
+# 9.5 
+Fail käivitatakse selles kaustas, mis tuleb "%Path% märgitud kaustades enne, ja süsteemi kaustad tulevad enne teisi.
+
+
+# 9.8
+<img width="842" height="682" alt="image" src="https://github.com/user-attachments/assets/a1c9fdf1-5efa-4505-b770-05fe892fb721" />
 
