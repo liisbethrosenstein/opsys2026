@@ -1,3 +1,7 @@
+# Praktikum 9
+
+Praktikumis õppisin kasutama keskkonnamuutujaid ja aliaseid nii Linuxis kui Windowsis, haldasin taustateenuseid  ning eemaldasin mittevajalikku tarkvara. Lõpuks uuendasin Ubuntu virtuaalmasina versioonile 26.10
+
 # 9.1
 /home/liisbeth
 
