@@ -1,3 +1,8 @@
+# Praktikum 10
+Praktikumis tutvusin erinevate tööriistadega Windowsis kui ka Linuxis,peamiselt kust leida infot erinevate asjade kohta. Sain katsetada, mida erinevad tööriistad teevad ja kuidas õige info kätte saada.
+
+
+
 | Küsimus | Linux | Windows | Linuxis kasutatud käsklus | Windowsis kasutatud tööriist ja väli |
 |---|---|---|---|---|
 | Ülesanne 10-1 (Protsesside arv) | 281 | 135 | `ps aux \| wc -l` | Task manager -> performance -> CPU |
